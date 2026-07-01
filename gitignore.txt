@@ -3,5 +3,3 @@
 **/__pycache__
 **/.OTTER_LOG
 .DS_Store
-hw/.DS_Store
-lab/.DS_Store
